@@ -1,0 +1,6 @@
+{
+  "name": "VocalCraft AI",
+  "description": "Studio-quality original music and cover songs sung in your own voice with custom calibration and multitrack stem mixing.",
+  "requestFramePermissions": ["android.permission.RECORD_AUDIO"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
